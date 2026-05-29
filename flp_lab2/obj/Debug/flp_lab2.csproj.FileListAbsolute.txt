@@ -1,0 +1,14 @@
+C:\Users\Daria\Desktop\flp\flp_lab2\flp_lab2\obj\Debug\flp_lab2.csproj.AssemblyReference.cache
+C:\Users\Daria\Desktop\flp\flp_lab2\flp_lab2\obj\Debug\flp_lab2.Properties.Resources.resources
+C:\Users\Daria\Desktop\flp\flp_lab2\flp_lab2\obj\Debug\flp_lab2.csproj.GenerateResource.cache
+C:\Users\Daria\Desktop\flp\flp_lab2\flp_lab2\obj\Debug\flp_lab2.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Desktop\flp\flp_lab2\flp_lab2\bin\Debug\flp_lab2.exe.config
+C:\Users\Daria\Desktop\flp\flp_lab2\flp_lab2\bin\Debug\flp_lab2.exe
+C:\Users\Daria\Desktop\flp\flp_lab2\flp_lab2\bin\Debug\flp_lab2.pdb
+C:\Users\Daria\Desktop\flp\flp_lab2\flp_lab2\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Daria\Desktop\flp\flp_lab2\flp_lab2\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Daria\Desktop\flp\flp_lab2\flp_lab2\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Daria\Desktop\flp\flp_lab2\flp_lab2\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Daria\Desktop\flp\flp_lab2\flp_lab2\obj\Debug\flp_lab2.csproj.Up2Date
+C:\Users\Daria\Desktop\flp\flp_lab2\flp_lab2\obj\Debug\flp_lab2.exe
+C:\Users\Daria\Desktop\flp\flp_lab2\flp_lab2\obj\Debug\flp_lab2.pdb
